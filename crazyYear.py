@@ -1,5 +1,5 @@
 
-a = int(input("مقدار سال را برای تبدیل وارد کنید! >>> "))
+a = int(input("Enter the number of years >>> "))
 
 print(f"{a} year = \n\nsecond = ",a*31557600,"\n")
 
